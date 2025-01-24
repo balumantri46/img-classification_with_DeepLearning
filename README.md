@@ -5,3 +5,6 @@ DeepLearning has soo many Convolutional models that work together (in a linked w
 - the next dataset I've used is **CIFAR-10** which has images of 10 categories.
 
 All the above data I've used for training and testing the model
+![image](https://github.com/user-attachments/assets/30ec0e56-c466-4960-bb2d-3ce0c34e892d)
+![image](https://github.com/user-attachments/assets/5b3d0f96-0d25-47a9-864a-8d06575c877f)
+
