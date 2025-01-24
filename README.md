@@ -1,1 +1,7 @@
-# img-classification_with_DeepLearning
+# Img-Classification_with_DeepLearning
+DeepLearning has soo many Convolutional models that work together (in a linked way) to get the task done, that would be like our neural system, so they are called Neural Networks
+- in the above code I've used  `tensorflow's` `keras` model which is a CNN that is flexible, we can decide the no .of layers in the neural network and what layer at which level.
+- for image classification I've used, the famous **MNIST** data which contains 70,000 images of hand written digits from 0-9, **MNIST-Fashion** which has same no of images but it has images offashion wear.
+- the next dataset I've used is **CIFAR-10** which has images of 10 categories.
+
+All the above data I've used for training and testing the model
